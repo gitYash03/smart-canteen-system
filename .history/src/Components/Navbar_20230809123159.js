@@ -35,7 +35,7 @@ export default function Navbar() {
                 <input className="form-control me-2" type="search" placeholder="Search" aria-label="Search"/>
                 <button className="btn btn-outline-success" type="submit">Search</button>
             </form>
-            <button type="button" className="btn btn-primary position-relative  mx-2">
+            <button type="button" class="btn btn-primary position-relative  mx-2">
             Profile
             </button>
             </div>
